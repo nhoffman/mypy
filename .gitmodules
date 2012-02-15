@@ -1,0 +1,6 @@
+[submodule "bioscons"]
+	path = bioscons
+	url = git@github.com:nhoffman/bioscons.git
+[submodule "taxtastic"]
+	path = taxtastic
+	url = git@github.com:fhcrc/taxtastic.git
